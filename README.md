@@ -2,8 +2,6 @@
 
 一个使用纯 HTML5 Canvas 制作的经典坦克大战网页游戏，无需任何依赖，直接在浏览器中运行。
 
-![Tank Battle](screenshot.png)
-
 ## 🕹️ 操作方式
 
 | 操作 | 按键 |
